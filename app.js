@@ -13,4 +13,4 @@ app.use('/Utils/Printer/Word', indexWord);
 
 app.listen(3000);
 
-console.log('ligado');
+console.log('ligado') ;
