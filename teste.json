@@ -1,0 +1,36 @@
+{
+  "registro1":
+  [
+    "registro2":
+    [ 
+      {
+      "username":"xyz",
+      "password":"xyz@123",
+      "email":"xyz@xyz.com",
+      "uid": 1100
+      }
+      ,
+      {
+      "username":"eee",
+      "password":"dfdsfdsfsfd",
+      "email":"24234234324",
+      "uid": 2222
+      }
+    ],
+    [ 
+      {
+      "username":"xyz",
+      "password":"xyz@123",
+      "email":"xyz@xyz.com",
+      "uid": 1100
+      }
+      ,
+      {
+      "username":"eee",
+      "password":"dfdsfdsfsfd",
+      "email":"24234234324",
+      "uid": 2222
+      }
+    ]
+  ]
+}
