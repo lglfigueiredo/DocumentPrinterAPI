@@ -6,7 +6,7 @@
   "dependencies": {
     "aws-sdk": "^2.617.0",
     "body-parser": "^1.19.0",
-    "docxtemplater": "^3.16.8",
+    "docxtemplater": "^3.31.4",
     "express": "^4.17.1",
     "pizzip": "^3.0.6"
   },
